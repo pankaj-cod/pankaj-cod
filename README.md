@@ -31,7 +31,7 @@ I enjoy solving complex problems and turning ideas into production-ready project
 
 * Built using image processing + modern frontend
 * Focus on real-time editing & performance
-* *(ADD repo link here once polished)*
+* https://moon-knight-jet.vercel.app/
 
 #### 🌐 Full Stack Web Application
 
@@ -68,7 +68,7 @@ I enjoy solving complex problems and turning ideas into production-ready project
 ### 📫 Connect With Me
 
 * 📧 Email: [upadhyaypankaj322@gmail.com](mailto:upadhyaypankaj322@gmail.com)
-* 💼 LinkedIn: *(ADD THIS — important)*
-* 🌐 Portfolio: *(build this next — React + Tailwind + deploy)*
+* 💼 LinkedIn: https://www.linkedin.com/in/pankaj-upadhyay-12625330a/
+
 
 ---
