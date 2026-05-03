@@ -1,26 +1,51 @@
-# Hi , I'm Pankaj
+# Hi, I'm Pankaj 👋
 
-## A Full Stack Developer
+### 🚀 Full Stack Developer | AI & Web3 Explorer
 
-  Currently learning **Web3, AI/ML**, and building real-world projects  
-  Creative Problem Solver & Passionate Learner  
+I’m a developer focused on building **real-world, impactful applications** using modern web technologies.
+Currently exploring **AI/ML, system design, and scalable backend systems**.
 
-💬 Ask me about  
-**React.js, TypeScript, Databases, Node.js, Tailwind**
-
- Reach me at: upadhyaypankaj322@gmail.com
+I enjoy solving complex problems and turning ideas into production-ready projects.
 
 ---
 
-### Things I code with
+### 🧠 What I'm Doing Right Now
+
+* 🔭 Building an **AI-based Photo Editing Application**
+* 🌱 Learning **Machine Learning, Web3, and System Design**
+* 💡 Strengthening **Data Structures & Algorithms**
+
+---
+
+### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,figma,docker,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,figma,docker,python,cpp" />
 </p>
 
 ---
 
-###  GitHub Stats
+### 📌 Featured Projects
+
+#### 🎨 AI Photo Editing Tool
+
+* Built using image processing + modern frontend
+* Focus on real-time editing & performance
+* *(ADD repo link here once polished)*
+
+#### 🌐 Full Stack Web Application
+
+* Authentication, APIs, database integration
+* Clean architecture with scalable backend
+
+#### 🤖 Upcoming ML Projects
+
+* Data-driven models (in progress)
+* Will include end-to-end ML pipeline
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankaj-cod&show_icons=true&theme=radical" />
@@ -30,4 +55,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-cod&theme=radical" />
 </p>
 
--->
+---
+
+### ⚡ What Makes Me Different
+
+* I focus on **building real products, not just tutorials**
+* Strong interest in **AI + full stack integration**
+* Continuously improving through **projects + problem solving**
+
+---
+
+### 📫 Connect With Me
+
+* 📧 Email: [upadhyaypankaj322@gmail.com](mailto:upadhyaypankaj322@gmail.com)
+* 💼 LinkedIn: *(ADD THIS — important)*
+* 🌐 Portfolio: *(build this next — React + Tailwind + deploy)*
+
+---
