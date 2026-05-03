@@ -1,51 +1,69 @@
-# Hi, I'm Pankaj 👋
+# 👋 Pankaj Upadhyay
 
-### 🚀 Full Stack Developer | AI & Web3 Explorer
+### Full-Stack Developer | AI & Web3 Enthusiast
 
-I’m a developer focused on building **real-world, impactful applications** using modern web technologies.
-Currently exploring **AI/ML, system design, and scalable backend systems**.
-
-I enjoy solving complex problems and turning ideas into production-ready projects.
+Building **real-world applications**, exploring **AI/ML**, and working towards scalable systems that solve meaningful problems.
 
 ---
 
-### 🧠 What I'm Doing Right Now
+### 🚀 About Me
 
-* 🔭 Building an **AI-based Photo Editing Application**
-* 🌱 Learning **Machine Learning, Web3, and System Design**
-* 💡 Strengthening **Data Structures & Algorithms**
+I'm a developer focused on **creating impactful full-stack applications** and integrating **AI into real-world use cases**.
+I enjoy building systems that are not just functional, but **efficient, scalable, and production-ready**.
+
+Currently diving deep into:
+
+* ⚙️ **System Design** – Writing scalable and maintainable backend systems
+* 🌐 **Full-Stack Development** – End-to-end apps using modern frameworks
+* 🤖 **AI/ML Applications** – Applying ML to practical problems
+* ☁️ **DevOps & Deployment** – Docker, CI/CD, and cloud basics
+* 🧩 **Problem Solving (DSA)** – Strengthening core fundamentals
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,git,github,figma,docker,python,cpp" />
+#### 💻 Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,cpp" />
+</p>
+
+#### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker" />
+</p>
+
+#### ⚒️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,tailwind" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Work
 
-#### 🎨 AI Photo Editing Tool
+#### 🎨 AI Photo Editing Tool *(Flagship Project)*
 
-* Built using image processing + modern frontend
-* Focus on real-time editing & performance
+* Real-time image processing application
+* Focus on performance & usability
 * https://moon-knight-jet.vercel.app/
 
-#### 🌐 Full Stack Web Application
+#### 🌐 Full Stack Application
 
 * Authentication, APIs, database integration
-* Clean architecture with scalable backend
+* Clean architecture & scalable backend
 
-#### 🤖 Upcoming ML Projects
+#### 🤖 ML Projects *(Coming Soon)*
 
-* Data-driven models (in progress)
-* Will include end-to-end ML pipeline
+* End-to-end ML pipelines
+* Practical datasets & deployment
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankaj-cod&show_icons=true&theme=radical" />
@@ -57,18 +75,24 @@ I enjoy solving complex problems and turning ideas into production-ready project
 
 ---
 
-### ⚡ What Makes Me Different
+### 🏆 Goals
 
-* I focus on **building real products, not just tutorials**
-* Strong interest in **AI + full stack integration**
-* Continuously improving through **projects + problem solving**
+* 🚀 Crack top internships / GSoC
+* 🧠 Master system design & AI engineering
+* 🌍 Build products that people actually use
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Let's Connect
 
 * 📧 Email: [upadhyaypankaj322@gmail.com](mailto:upadhyaypankaj322@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/pankaj-upadhyay-12625330a/
+* 🌍 Portfolio: https://portfolio-cioe.vercel.app/
 
+---
+
+### 💭 Quote
+
+> "Building > Watching. Execution beats everything."
 
 ---
